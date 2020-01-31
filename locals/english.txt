@@ -59,6 +59,8 @@
 	"bm_wp_wpn_fps_ass_ak_chicom_762_st_uf_t561" : "Type 56-1 Stock",
 	"bm_wp_wpn_fps_ass_ak_chicom_762_st_f_t561"  : "Type 56-1 Stock (Folded)",
 	
+	"bm_wp_wpn_fps_ass_ak_chicom_762_m_flat_30"  : "30 Round Chinese 'Flatback' Magazine",
+	
 	"bm_wp_wpn_fps_ass_ak_chicom_762_md_no"  : "Remove Muzzle Device",
 	"bm_wp_wpn_fps_ass_ak_chicom_762_clr_no" : "Remove Cleaning Rod",
 	"bm_wp_wpn_fps_ass_ak_chicom_762_dc_no"  : "Remove Dust Cover",
