@@ -1,0 +1,134 @@
+<AddFiles directory="assets">
+
+	<!-- WEAPON PARTS -->
+	
+	<unit_npc	 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762/wpn_fps_ass_ak_chicom_762"/>
+	
+	<!-- DUMMY PARTS -->
+	
+	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_shared_pts/wpn_fps_ass_ak_chicom_762_ba_dummy"/>
+	
+	<!-- AKM PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_main_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_nam_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_barrel_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_bayonet_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_handguard_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_dust_cover_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_bolt_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_rear_sight_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_muzzle_brake_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_ba_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_bo_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_clr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_dc_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_fsl_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_gb_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_gt_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_lfhgr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_lrhgr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_ufhgr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_urhgr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_hm_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_lhg_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_uhg_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_mr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_md_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_pg_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_fo_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_ro_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_fsb_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_rsb_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_rcs_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_re_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_st_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_tr_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_trg_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_ftru_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_rtru_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_by_f_t56"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_by_uf_t56"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_pg_t56_wood"/>
+	
+	<!-- AKMS PARTS -->
+	
+	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/t56s_main_std"/> -->
+	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/t56s_stock_std"/> -->
+	
+	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_re_t56s"/> -->
+	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_rtru_t56s"/> -->
+	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_st_f_t56s"/> -->
+	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_st_uf_t56s"/> -->
+	
+	<!-- MAG PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_mag_pts/mag_steel_30_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_mag_pts/wpn_fps_ass_ak_chicom_762_m_steel_30"/>
+	
+	<!-- MOUNT PARTS -->
+	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_shared_pts/tula_optic_mount_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_shared_pts/wpn_fps_ass_ak_chicom_762_om_tula"/>
+	
+	<!-- ICONS -->
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/weapons/ak_chicom_762"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_steel_10"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_steel_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_beer_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_bake_30"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_bake_40"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_m_ak103_30"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_pg_t56_wood"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_md_ak"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_ro_t56b"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_md_t56l"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_re_t56s"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_st_uf_t56s"/>
+
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_ba_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_bo_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_clr_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_dc_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_fsb_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_gb_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_lhg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_uhg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_pg_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_re_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_st_uf_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_tr_ak103"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_md_ak103"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_ba_ak104"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_gb_ak104"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_md_ak104"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_re_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_lhg_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_uhg_wasr"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_lhg_shark"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_uhg_t56"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_lhg_t56"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_all_st_t56"/>
+	
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_clr_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_dc_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_lhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_uhg_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_md_no"/>
+	<texture path="guis/dlcs/mods/textures/pd2/blackmarket/icons/mods/wpn_fps_ass_ak_chicom_762_st_no"/>
+
+</AddFiles>
