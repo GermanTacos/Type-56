@@ -53,11 +53,19 @@
 	"bm_menu_bayonet"        						: "Bayonet",
 	"bm_menu_bayonet_plural"    					: "Bayonets",
 	
-	"bm_wp_wpn_fps_ass_ak_chicom_762_by_uf_t56"  : "Unfolded Bayonet",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_by_uf_t56"      : "Unfolded Type 56 Bayonet",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_by_uf_t56_desc" : "Unfolds bayonet, offering additional melee damage. A G.I.'s worst nightmare.",
 	
 	"bm_wp_wpn_fps_ass_ak_chicom_762_re_t561"    : "Type 56-1 Receiver",
 	"bm_wp_wpn_fps_ass_ak_chicom_762_st_uf_t561" : "Type 56-1 Stock",
 	"bm_wp_wpn_fps_ass_ak_chicom_762_st_f_t561"  : "Type 56-1 Stock (Folded)",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_fsb_t561"   : "Non-Bayonet Front Sight Block",
+	
+	"bm_wp_wpn_fps_ass_ak_chicom_762_lhg_t562"   : "Type 56-2 Lower Handguard",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_uhg_t562"   : "Type 56-2 Upper Handguard",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_pg_t562"    : "Type 56-2 Pistol Grip",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_st_uf_t562" : "Type 56-2 Stock",
+	"bm_wp_wpn_fps_ass_ak_chicom_762_st_f_t562"  : "Type 56-2 Stock (Folded)",
 	
 	"bm_wp_wpn_fps_ass_ak_chicom_762_m_flat_30"  : "30 Round Chinese 'Flatback' Magazine",
 	

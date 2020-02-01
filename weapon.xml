@@ -108,8 +108,14 @@
 				
 				<value_node value="wpn_fps_ass_ak_chicom_762_by_uf_t56"/>
 				
-				<!-- <value_node value="wpn_fps_ass_ak_chicom_762_re_t56s"/> -->
-				<!-- <value_node value="wpn_fps_ass_ak_chicom_762_st_uf_t56s"/> -->
+				<value_node value="wpn_fps_ass_ak_chicom_762_re_t561"/>
+				<value_node value="wpn_fps_ass_ak_chicom_762_st_uf_t561"/>
+				<value_node value="wpn_fps_ass_ak_chicom_762_fsb_t561"/>
+				
+				<value_node value="wpn_fps_ass_ak_chicom_762_lhg_t562"/>
+				<value_node value="wpn_fps_ass_ak_chicom_762_uhg_t562"/>
+				<value_node value="wpn_fps_ass_ak_chicom_762_pg_t562"/>
+				<value_node value="wpn_fps_ass_ak_chicom_762_st_uf_t562"/>
 				
 				<value_node value="wpn_fps_ass_ak_chicom_762_clr_no"/>
 				<value_node value="wpn_fps_ass_ak_chicom_762_dc_no"/>

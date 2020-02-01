@@ -8,7 +8,7 @@
 	
 	<unit_obj    path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_shared_pts/wpn_fps_ass_ak_chicom_762_ba_dummy"/>
 	
-	<!-- AKM PARTS -->
+	<!-- TYPE 56 PARTS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_main_std"/>
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/t56_nam_std"/>
@@ -51,18 +51,28 @@
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_by_f_t56"/>
 	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_by_uf_t56"/>
 	
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56_pts/wpn_fps_ass_ak_chicom_762_pg_t56_wood"/>
+	<!-- TYPE 56-1 PARTS -->
 	
-	<!-- AKMS PARTS -->
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/t561_main_std"/>
 	
-	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/t56s_main_std"/> -->
-	<!-- <df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/t56s_stock_std"/> -->
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/wpn_fps_ass_ak_chicom_762_fsb_t561"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/wpn_fps_ass_ak_chicom_762_re_t561"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/wpn_fps_ass_ak_chicom_762_st_f_t561"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/wpn_fps_ass_ak_chicom_762_st_uf_t561"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t561_pts/wpn_fps_ass_ak_chicom_762_rtru_t561"/>
 	
-	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_re_t56s"/> -->
-	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_rtru_t56s"/> -->
-	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_st_f_t56s"/> -->
-	<!-- <unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t56s_pts/wpn_fps_ass_ak_chicom_762_st_uf_t56s"/> -->
+	<!-- TYPE 56-2 PARTS -->
 	
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/t562_furniture_std"/>
+	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/t562_stock_std"/>
+	
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_lhg_t562"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_uhg_t562"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_pg_t562"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_st_f_t562"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_st_uf_t562"/>
+	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_t562_pts/wpn_fps_ass_ak_chicom_762_rtru_t562"/>
+
 	<!-- MAG PARTS -->
 	
 	<df_nm		 path="units/mods/weapons/wpn_fps_ass_ak_chicom_762_mag_pts/mag_steel_30_std"/>
